@@ -11,23 +11,19 @@ Key Skills
 ==========
 
 Management
-:   ⁣
 :   Managed Commercial Officer and Community Manager at DueDil.
 :   Ran sprints and retrospectives at DueDil.
 :   Managed volunteer associates at Girls in Tech London.
 
 Strategy/KPIs
-:   ⁣
 :   Helped set quarterly OKRs at DueDil.
 :   Defined strategy for Girls in Tech London.
 
 Communication
-:   ⁣
 :   Confident public speaker.
 :   Experience writing speeches for C level executives (e.g. Baroness Shields).
 
 Collaboration
-:   ⁣
 :   Enhanced visibility of DueDil's infrastructure team through promoting
     impactful projects and participating in tech talks.
 :   Fostered cross team collaboration at DueDil by being an active member of
@@ -36,7 +32,6 @@ Collaboration
     hours across multiple domains.
 
 Delivery
-:   ⁣
 :   Co-ordinated Girls in Tech London mentorship program, offering 15 girls time
     with high profile mentors from the tech community.
 :   Ran a number of extremely popular social tech events (e.g. hackathons at
@@ -44,7 +39,6 @@ Delivery
 :   Co-ordinated £XX million mansion renovation.
 
 Engineering
-:   ⁣
 :   Working knowledge of Python, building simple production systems (e.g.
     system to synchronize LDAP and GitHub group members).
 :   Solid understanding of key data structures and algorithms.
