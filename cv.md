@@ -60,7 +60,7 @@ Education
 Professional Experience
 =======================
 
-**2015–today**
+**2015–2016**
 :   **Infrastructure Engineer at DueDil**
 :   In my final year of university, I wanted to put the skills I had learned in
     to practice, and was offered a job on the engineering team at DueDil.
