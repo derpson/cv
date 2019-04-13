@@ -33,8 +33,8 @@ Professional Experience
 2016-2017
 :   Softwaree Engineer at Ravelin
 :   Duties included working with Ravelin's API, Go development, full-stack 
-    deployments, maintenance (incl. remaining performant), and tracing customer 
-    queries back through Ravelin's systems to identify any data-processing issues buried within.
+    deployments, maintenance, and tracing customer queries back through Ravelin's
+    systems to identify any data-processing issues buried within.
     
 2015–2016
 :   Infrastructure Engineer at DueDil
@@ -79,9 +79,10 @@ Personal Projects
 
 2013-today
 :   Co-founder & Board Member, DevelopHer
-:   I am a board member and currently work on the events team for DevelopHer,
-    organising and running both technical and non-technical events for women in
-    London. 
+:   DevelopHer is a non-profit community dedicated to bringing women in
+    technology together to create both opportunities and a network of support
+    through events, workshops, and learning. We aim to develop careers,
+    to develop confidence and develop change. 
 
 2013
 :   Seekr
