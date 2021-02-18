@@ -10,6 +10,9 @@ roles through running mentorship schemes and events for women.**
 Education
 =========
 
+2020-2023
+:   BSc Motorsports Engineering, National Motorsport Academy.
+
 2014-2017
 :   BSc Computer Science, Birkbeck, University of London.
 
@@ -19,15 +22,24 @@ Education
 1998-2003
 :   12 GCSEs, Heathside School, United Kingdom.
 
+Publications
+============
+
+2018
+:   Jaderberg, Max, et al. "Human-level performance in 3D multiplayer games with population-based reinforcement learning."
+    Science 364.6443 (2019): 859-865.
+    URL: <https://arxiv.org/pdf/1807.01281.pdf>
+
 Professional Experience
 =======================
 
 **2017-current**
-:   **DeepMind: Research Operations
-:   I initially started at DeepMind as a program manager and moved over to the 
-    Research Operations team in January 2019. My duties include delivering 1:1 coaching and mentoring,
-    partnering with senior leadership to provide insights and analysis, scaling research efforts,
-    managing team priorities and risks, and general project management.**
+:   **DeepMind: Program Manager
+:   Duties include delivering 1:1 coaching and mentoring,
+    partnering with senior leadership to provide insights and analysis, scaling research 
+    efforts, supporting sustainable high performance and pioneering teams, balancing
+    project pace, scope, quality, and risk, defining and implementing new processes, as
+    well as general program management.**
     
 
 2016-2017
